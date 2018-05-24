@@ -1,0 +1,6 @@
+print('='*20)
+print(' '*6 + "HELLO APP")
+print('='*20)
+print()
+name = input('What is your name? ')
+print('Nice to meet you {}'.format(name))
