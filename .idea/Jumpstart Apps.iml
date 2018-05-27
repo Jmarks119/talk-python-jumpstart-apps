@@ -3,6 +3,12 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/4. Journal App" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6. Cat App" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5. Weather Client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3. Birthday App" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2. Number Guessing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1. Hello Python" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7. Wizard Battler" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
